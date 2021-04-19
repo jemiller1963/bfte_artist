@@ -6,3 +6,12 @@
 @import "components/forms";
 
 @import "tailwindcss/utilities";
+
+select {
+  background-color: #F3F4F6;
+  border: solid thin #D1D5DB;
+  width: 100%;
+  margin-bottom: 1.5rem;
+  padding: .5rem;
+  border-radius: .25rem;
+}
